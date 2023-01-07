@@ -32,5 +32,4 @@ function Pet({ pet })
     </div>
   );
 }
-// comments 
 export default Pet;
