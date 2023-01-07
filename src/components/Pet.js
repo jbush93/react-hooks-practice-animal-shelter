@@ -32,5 +32,5 @@ function Pet({ pet })
     </div>
   );
 }
-// cdagadsfasadsffdasfdas
+
 export default Pet;
